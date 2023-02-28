@@ -1,0 +1,18 @@
+[general]
+karyotype = /media/eternus1/projects/zilov/data/natella_tasks/human_tandem_transcript/cin_human_transcripts/chrViz_config/chr_config.txt
+bandfile = /media/eternus1/projects/zilov/data/natella_tasks/human_tandem_transcript/cin_human_transcripts/chrViz_config/trans_config.txt
+
+scale = 50000
+imgWidth = 12000
+imgHeight = 6000
+
+[ideogram]
+thickness = 20
+spacing = 80
+fill      = yes
+label_size = 20
+
+[band]
+alpha = 1
+thickness = 10
+show_name = True
